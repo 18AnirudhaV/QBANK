@@ -1,6 +1,6 @@
 This folder containts all the code I wrote for my part: Credit Card Fraud. This is as this was done in pairs where each pair was given a task relating to issues that financial firms face.
 
-The final results and findings as presented at CUCAI (Canadian Undergraduate Conference on AI: cucai.ca):
+The final results and findings as presented at CUCAI 2020 (Canadian Undergraduate Conference on AI: cucai.ca). These slides are part of a larger presentation and were done face to face.
 
 ![Slide 1](https://github.com/18AnirudhaV/QBANK/blob/master/CreditCardFraud_AnirudhaVerma/SlideImages/Slide1.jpg)
 ![Slide 2](https://github.com/18AnirudhaV/QBANK/blob/master/CreditCardFraud_AnirudhaVerma/SlideImages/Slide2.jpg)
